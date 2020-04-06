@@ -7,3 +7,23 @@ background-image: radial-gradient(circle, #00efff, #00d6ff, #67b4ff, #ba88f2, #e
 h1{
   color: white
 }
+h3{
+  color: white;
+  text-indent: 50px
+}
+.LinkBar{
+  overflow: hidden;
+  background-color: skyblue; 
+}
+.LinkBar a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.LinkBar a:hover{
+  background-color: pink;
+  color: black;
+}
