@@ -9,7 +9,7 @@ h1{
 }
 h3{
   color: white;
-  text-indent: 50px
+  text-indent: 50px;
 }
 .LinkBar{
   overflow: hidden;
@@ -19,11 +19,15 @@ h3{
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 30px;
+  padding: 14px 70px;
   text-decoration: none;
   font-size: 17px;
 }
 .LinkBar a:hover{
   background-color: pink;
   color: black;
+}
+.Home{
+  position: absolute;
+  left: 950px;
 }
