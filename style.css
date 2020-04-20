@@ -10,6 +10,7 @@ h1{
 h3{
   color: white;
   text-indent: 50px;
+  font-size: 25px;
 }
 .LinkBar{
   overflow: hidden;
@@ -54,13 +55,35 @@ h3{
   z-index: 1;
 }
 .SIGNS a {
-  color: black;
+  color: white;
   padding: 10px 10px;
   text-decoration: none;
   display: block;
 }
-.SIGNS a:hover {background-color: #ddd;}
+.SIGNS a:hover {background-color: #ddd;
+color:#e556ac}
 
 .button:hover .SIGNS {display: block;}
 
 .button:hover .signbutton {background-color:#00d6ff;}
+
+h2{
+  position: absolute;
+  top: 750px;
+  left: 150px;
+}
+.Leopic{
+  display: inline-block;
+  position: absolute;
+  left: 850px;
+  top: 400px;
+  width: 350px;
+  height: 350px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+h4{
+  position: absolute;
+  top: 750px;
+  left: 950px;
+}
