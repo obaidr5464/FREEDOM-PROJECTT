@@ -20,7 +20,7 @@ h3{
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 15px 70px;
+  padding: 17px 70px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -35,15 +35,16 @@ h3{
 .signbutton {
   background-color: skyblue;
   color: white;
-  padding: 16px;
+  padding: 17px;
   font-size: 16px;
   border: none;
 }
 .button {
   position: absolute;
   left: 1000px;
-  top: 79.55px;
+  top: 80px;
   height: 20px;
+  cursor: pointer;
 }
 .SIGNS{
   display: none;
@@ -56,12 +57,14 @@ h3{
 }
 .SIGNS a {
   color: white;
-  padding: 10px 10px;
+  padding: 10px 65.5px;
   text-decoration: none;
   display: block;
 }
 .SIGNS a:hover {background-color: #ddd;
-color:#e556ac}
+color:#e556ac;
+cursor: pointer;
+}
 
 .button:hover .SIGNS {display: block;}
 
@@ -84,6 +87,23 @@ h2{
 }
 h4{
   position: absolute;
-  top: 750px;
+  top: 720px;
   left: 950px;
+}
+@media screen and (min-width: 1200px) {
+  .LinkBar {
+    color: pink
+  }
+}
+.Cancerpic{
+  display: inline-block;
+  position: absolute;
+  left: -60px;
+  top: 800px;
+  overflow: hidden;
+}
+h5{
+  position: absolute;
+  left: 170px;
+  top: 1250px;
 }
