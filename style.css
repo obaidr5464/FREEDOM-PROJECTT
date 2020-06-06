@@ -107,3 +107,82 @@ h5{
   left: 170px;
   top: 1250px;
 }
+.Piscespic{
+  display: inline-block;
+  position: absolute;
+  top: 890px;
+  left: 800px;
+  overflow: hidden;
+}
+.Pisces{
+  position: absolute;
+  top: 1250px;
+  left: 880px;
+}
+.Scorpiopic{
+  display: inline-block;
+  position: absolute;
+  top: 1450px;
+  left: 50px;
+  overflow: hidden;
+}
+.Scorpio{
+  position: absolute;
+  top: 1900px;
+  left: 150px;
+}
+.Tauruspic{
+  position: absolute;
+  top: 1500px;
+  left: 850px;
+  overflow: hidden;
+}
+.Taurus{
+  position: absolute;
+  top: 1900px;
+  left: 950px;
+}
+.Sagittariuspic{
+  position: absolute;
+  top: 2000px;
+  left: -10px;
+  overflow: hidden;
+}
+.Sagittarius{
+  position: absolute;
+  top: 2450px;
+  left: 50px;
+}
+.Geminipic{
+  position: absolute;
+  top: 2025px;
+  left: 850px;
+  overflow: hidden;
+}
+.Gemini{
+  position: absolute;
+  top: 2450px;
+  left: 970px;
+}
+.Virgopic{
+  position: absolute;
+  top: 2550px;
+  left: -10px;
+  overflow: hidden;
+}
+.Virgo{
+  position: absolute;
+  top: 2970px;
+  left: 120px;
+}
+.Librapic{
+  position: absolute;
+  top: 2480px;
+  left: 730px;
+  overflow: hidden;
+}
+.Libra{
+  position: absolute;
+  top: 2970px;
+  left: 980px;
+}
