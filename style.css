@@ -186,3 +186,25 @@ h5{
   top: 2970px;
   left: 980px;
 }
+.Capricornpic{
+  position: absolute;
+  top: 3050px;
+  left: -50px;
+  overflow: hidden;
+}
+.Capricorn{
+  position: absolute;
+  top: 3430px;
+  left: 50px;
+}
+.Aquariuspic{
+  position: absolute;
+  top: 3110px;
+  left: 900px;
+  overflow: hidden;
+}
+.Aquarius{
+  position: absolute;
+  top: 3430px;
+  left: 900px;
+}
