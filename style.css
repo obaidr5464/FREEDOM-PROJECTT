@@ -234,3 +234,47 @@ h5{
   position: absolute;
   top: 2100px;
 }
+.Cancerpara{
+  position: absolute;
+  top: 2350px;
+}
+.cancerpicc{
+  position: absolute;
+  top: 200px;
+  left: 10px;
+  box-align: inherit;
+}
+.piscessign{
+  position: absolute;
+  top: 600px;
+  left: 10px;
+}
+.Piscespara{
+  position: absolute;
+  top: 875px;
+  left: 10px;
+}
+.piscespicc{
+  position: absolute;
+  top: 1150px;
+  left: 10px;
+}
+.scorpiosign{
+  position: absolute;
+  top: 1450px;
+  left: -50px;
+}
+.scorpiopara{
+  position: absolute;
+  top: 1800px;
+}
+.scorpiopicc{
+  position: absolute;
+  top: 2050px;
+  left: 10px;
+}
+.taurussign{
+  position: absolute;
+  top: 2500px;
+  left: 50px;
+}
