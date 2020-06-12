@@ -278,3 +278,54 @@ h5{
   top: 2500px;
   left: 50px;
 }
+.tauruspara{
+  position: absolute;
+  top: 2750px;
+}
+.tauruspicc{
+  position: absolute;
+  top: 3000px;
+  left: 10px;
+}
+.sagisign{
+  position: absolute;
+  top: 3400px;
+  left: 50px;
+}
+.sagipara{
+  position: absolute;
+  top: 3650px;
+}
+.sagipicc{
+  position: absolute;
+  top: 3900px;
+  left: 10px;
+}
+.geminisign{
+  position: absolute;
+  top: 4300px;
+  left: 50px
+}
+.geminipara{
+  position: absolute;
+  top: 4550px;
+}
+.geminipicc{
+  position: absolute;
+  top: 4800px;
+  left: 10px;
+}
+.virgosign{
+  position: absolute;
+  top: 5200px;
+  left: 40px;
+}
+.virgopara{
+  position: absolute;
+  top: 5400px;  
+}
+.virgopicc{
+  position: absolute;
+  top: 5600px;
+  left: 10px
+}
