@@ -329,3 +329,163 @@ h5{
   top: 5600px;
   left: 10px
 }
+.librasign{
+  position: absolute;
+  top: 6000px;
+  left: 50px;
+}
+.librapara{
+  position: absolute;
+  top: 6250px;
+}
+.librapicc{
+  position: absolute;
+  top: 6450px;
+  left: 10px;
+}
+.caprisign{
+  position: absolute;
+  top: 6850px;
+  left: 50px;
+}
+.capripara{
+  position: absolute;
+  top: 7100px;
+}
+.capripicc{
+  position: absolute;
+  top: 7350px;
+  left: 10px;
+}
+.Aquasign{
+  position: absolute;
+  top: 7750px;
+  left: 50px;
+}
+.aquapara{
+  position: absolute;
+  top: 7950px;
+}
+.aquapicc{
+  position: absolute;
+  top: 8200px;
+  left: 10px; 
+}
+.ariesparaa{
+  text-indent: 20px;
+  text-align: left;
+  position: absolute;
+  top: 550px;
+}
+.Ariespiccc{
+  position: absolute;
+  left: 500px;
+}
+.leopiccc{
+  position: absolute;
+  left: 500px;
+  top: 800px
+}
+.leoparaa{
+  position: absolute;
+  top: 1100px;
+}
+.horo{
+  position: absolute;
+  top: 192px;
+  left: 250px;
+}
+.cancerpiccc{
+  position: absolute;
+  top: 1400px;
+  left: 500px;
+}
+.cancerparaa{
+  position: absolute;
+  top: 1650px;
+}
+.piscespiccc{
+  position: absolute;
+  top: 1950px;
+  left: 500px;
+}
+.piscesparaa{
+  position: absolute;
+  top: 2200px;
+}
+.scorpiccc{
+  position: absolute;
+  top: 2350px;
+  left: 410px;
+}
+.scorpparaa{
+  position: absolute;
+  top: 2700px;
+}
+.taurpiccc{
+  position: absolute;
+  top: 3000px;
+  left: 500px;
+}
+.taurparaa{
+  position: absolute;
+  top: 3300px;
+}
+.sagipiccc{
+  position: absolute;
+  top: 3550px;
+  left: 500px;
+}
+.sagiparaa{
+  position: absolute;
+  top: 3800px;
+}
+.gempiccc{
+  position: absolute;
+  top: 4100px;
+  left: 500px;
+}
+.gemparaa{
+  position: absolute;
+  top: 4350px;
+}
+.virgopiccc{
+  position: absolute;
+  top: 3000px;
+}
+.virgopiccc{
+  position: absolute;
+  top: 4550px;
+  left: 450px;
+}
+.virgparaa{
+  position: absolute;
+  top: 4900px;
+}
+.librapiccc{
+  position: absolute;
+  top: 5150px;
+  left: 500px;
+}
+.libraparaa{
+  position: absolute;
+  top: 5400px;
+}
+.cappiccc{
+  position: absolute;
+  top: 5650px;
+  left: 500px;
+}
+.capparaa{
+  position: absolute;
+  top: 5900px;
+}
+.aquapiccc{
+  position: absolute;
+  top: 6200px;
+  left: 500px;
+}
+.aquaparaa{
+  position: absolute;
+  top: 6500px;
+}
