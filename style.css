@@ -392,8 +392,8 @@ h5{
 }
 .horo{
   position: absolute;
-  top: 192px;
-  left: 250px;
+  top: -19px;
+  left: 800px;
 }
 .cancerpiccc{
   position: absolute;
@@ -488,4 +488,86 @@ h5{
 .aquaparaa{
   position: absolute;
   top: 6500px;
+}
+.ariesword{
+  position: absolute;
+  top: 130px;
+  left: 50px;
+}
+.ariess{
+  position: absolute;
+  top: 250px;
+  left: 50px;
+}
+.ariesperson{
+  position: absolute;
+  top: 500px;
+  text-align: left;
+}
+.leoword{
+  position: absolute;
+  left: 50px;
+  top: 150px;
+}
+.leoo{
+  position: absolute;
+  top: 350px;
+  left: 0px;
+}
+.leopersonal{
+  position: absolute;
+  top: 600px;
+  text-align: left;
+}
+.cancerword{
+  position: absolute;
+  top: 150px;
+}
+.cancerr{
+  position: absolute;
+  top: 300px;
+}
+.cancerperson{
+  position: absolute;
+  top: 550px;
+  text-align: left;
+}
+.piscesword{
+  position: absolute;
+  top: 150px;
+}
+.piscess{
+  position: absolute;
+  top: 300px;
+}
+.piscesperson{
+  position: absolute;
+  top: 550px;
+  text-align: left;
+}
+.scorpioword{
+  position: absolute;
+  top: 150px;
+}
+.scorpioo{
+  position: absolute;
+  top: 250px;
+}
+.scorpioperson{
+  position: absolute;
+  top: 550px;
+  text-align: left;
+}
+.taurusword{
+  position: absolute;
+  top: 150px;
+}
+.tauruss{
+  position: absolute;
+  top: 350px;
+}
+.taurusperson{
+  position: absolute;
+  top: 650px;
+  text-align: left;
 }
