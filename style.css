@@ -571,3 +571,83 @@ h5{
   top: 650px;
   text-align: left;
 }
+.sagiword{
+  position: absolute;
+  top: 150px;
+}
+.sagii{
+  position: absolute;
+  top: 350px;
+  left: 50px;
+}
+.sagiperson{
+  position: absolute;
+  top: 650px;
+  text-align: left;
+}
+.gemword{
+  position: absolute;
+  top: 150px;
+}
+.gemm{
+  position: absolute;
+  top: 300px;
+}
+.gempersonal{
+  position: absolute;
+  top: 550px;
+  text-align: left;
+}
+.virgoword{
+  position: absolute;
+  top: 150px;
+}
+.virgoo{
+  position: absolute;
+  top: 275px;
+  left: -50px;
+}
+.virgoperson{
+  position: absolute;
+  top: 600px;
+  text-align: left;
+}
+.libraword{
+  position: absolute;
+  top: 150px;
+}
+.libraa{
+  position: absolute;
+  top: 350px;
+}
+.libraperson{
+  position: absolute;
+  top: 650px;
+  text-align: left;
+}
+.capword{
+  position: absolute;
+  top: 150px;
+}
+.capp{
+  position: absolute;
+  top: 300px;
+}
+.capperson{
+  position: absolute;
+  top: 600px;
+  text-align: left;
+}
+.aquaword{
+  position: absolute;
+  top: 150px;
+}
+.aquaa{
+  position: absolute;
+  top: 350px;
+}
+.aquaperson{
+  position: absolute;
+  top: 650px;
+  text-align: left;
+}
