@@ -1,1 +1,1 @@
-FREEDOM
+FREEDOM project
