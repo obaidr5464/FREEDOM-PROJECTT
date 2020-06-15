@@ -35,7 +35,7 @@ h3{
 .signbutton {
   background-color: skyblue;
   color: white;
-  padding: 17px;
+  padding: 17.5px;
   font-size: 16px;
   border: none;
 }
@@ -650,4 +650,20 @@ h5{
   position: absolute;
   top: 650px;
   text-align: left;
+}
+a{
+  color: white;
+  font-size: 65px;
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}
+.art{
+  font-size: 75px;
+  color: white;
+  position: absolute;
+  top: 85px;
+  left: 30px;
+
 }
