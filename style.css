@@ -57,7 +57,8 @@ h3{
 }
 .SIGNS a {
   color: white;
-  padding: 10px 65.5px;
+  font-size: 20px;
+  padding: 10px 10px;
   text-decoration: none;
   display: block;
 }
@@ -68,7 +69,9 @@ cursor: pointer;
 
 .button:hover .SIGNS {display: block;}
 
-.button:hover .signbutton {background-color:#00d6ff;}
+.button:hover .signbutton {
+  background-color:#00d6ff;
+}
 
 h2{
   position: absolute;
